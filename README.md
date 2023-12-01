@@ -3,6 +3,9 @@
 ## Link
 https://isobar-us.github.io/code-standards/
 
+## Intro
+I was a contributor who helped write the Isobar Code Standards. This document was shared across the agency and intended to help all developers use best practices in their HTML, CSS and Javascript.
+
 ## License:
 
 All content licensed under Creative Commons Attribution 3.0 Unported License
